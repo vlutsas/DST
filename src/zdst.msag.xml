@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZDST</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>DST Message Class</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZDST</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Attempt to scramble data on Production !</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZDST</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Template updated</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZDST</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>&amp; table modification finished. &amp; fields scrambled. SY-SUBRC = &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZDST</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Scrambling completed on &amp;. Duration &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZDST</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>&amp; table content fetch finished with &amp; lines. SY-SUBRC = &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZDST</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>&amp; scrambling started. &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZDST</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>&amp; &amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZDST</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Template is currently edited by &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZDST</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Scrambling is currently executed by &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZDST</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Table &amp; update error. Changes rolled back.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
