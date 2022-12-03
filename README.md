@@ -45,4 +45,4 @@ Information technology — Security techniques — Code of practice for informat
 <br>
 <br>
 <br>
-<img src = "https://www.gehealthcare.com/-/jssmedia/6d5b64dcd4e44ad785909b3ab0d4b6c0.svg?la=en-US" >
+
