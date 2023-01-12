@@ -46,4 +46,4 @@ Information technology — Security techniques — Code of practice for informat
 <br>
 <br>
 
-<img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST1.png"  width="400" />
+<img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST1.png"  width="400" align="right" />
