@@ -1,7 +1,7 @@
 
 # DATA SCRAMBLING TOOL
 
-<img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST2.png"  width="400" />
+<img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST2.png"  width="500" />
 
 * [Description](#Description)
 * [Prerequisites](#Prerequisites)
