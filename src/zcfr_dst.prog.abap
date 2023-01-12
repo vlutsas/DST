@@ -8,10 +8,7 @@
 *&---------------------------------------------------------------------*
 *&                     A D M I N I S T R A T I O N                     *
 *&---------------------------------------------------------------------*
-* ChaRM CD     : 2000003871
-* Change Cycle : R48
-* Project      : JobJars 48
-* Created by   : Vladimir Lutsas, 212427818
+* Created by   : Vladimir Lutsas
 * Created on   : 21.07.2020 13:45:19
 * Program Type : Utility
 * Description  : DST
