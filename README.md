@@ -11,7 +11,7 @@
 
 ### Description
 
-The PHI/PII Data Scrambling Tool is intended to provide facilities for the irreversible anonymisation of PII/PHI data in non-PRD SAP systems, including (but not limited) to patient name, contact names, personal email addresses and personal bank account details.
+The PHI/PII Data Scrambling Tool is intended to provide facilities for the irreversible anonymisation of PII/PHI data in non-PRD SAP systems, including (but not limited) to patient name, contact names, personal email addresses and personal bank account details. Scrambling is based on user created template.
 > Installation requirements: <br>
 > AS ABAP 7.40<br>
 > <a href="https://docs.abapgit.org/">abapGit</a><br>
