@@ -2,8 +2,8 @@
 # DATA SCRAMBLING TOOL
 
 <p float="left" style="padding: 0px">
-  <img src="/DST2.png" height="250" />
-  <img src="/DST1.png" height="250" />
+  <img src="/DST2.png" height="270" />
+  <img src="/DST1.png" height="270" />
 </p>
 
 * [Description](#Description)
