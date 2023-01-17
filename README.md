@@ -3,6 +3,15 @@
 
 <img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST2.png"  height="500" /> <img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST1.png"  height="500" />
 
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST2.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST1.png" alt="Forest" style="width:100%">
+  </div>
+</div>
+
 * [Description](#Description)
 * [Prerequisites](#Prerequisites)
 * [Authorization](#Authorization)
