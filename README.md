@@ -1,12 +1,9 @@
 
 # DATA SCRAMBLING TOOL
 
-<img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST2.png"  height="500" /> <img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST1.png"  height="500" />
-
 <p float="left">
-  <img src="/DST2.png" width="100" />
-  <img src="/DST3.png" width="100" />
-  <img src="/DST1.png" width="100" />
+  <img src="/DST2.png" height="500" />
+  <img src="/DST3.png" height="500"  />
 </p>
 
 * [Description](#Description)
