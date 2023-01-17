@@ -12,7 +12,7 @@
 * [Features](#Features)
 * [Links](#Links)
 
-<img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST3.png"  width="900" />
+<img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST3.png"  width="1000" />
 
 ### Description
 
