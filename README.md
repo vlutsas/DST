@@ -45,8 +45,5 @@ The PHI/PII Data Scrambling Tool is intended to provide facilities for the irrev
 Information technology — Security techniques — Code of practice for information security controls](https://www.iso.org/standard/54533.html)
 * [Complete guide to GDPR compliance](https://gdpr.eu/)
 
-<br>
-<br>
-<br>
 <img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST3.png"  width="1000" />
 
