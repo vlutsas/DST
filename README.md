@@ -9,6 +9,8 @@
 * [Features](#Features)
 * [Links](#Links)
 
+<img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST3.png"  width="800" />
+
 ### Description
 
 The PHI/PII Data Scrambling Tool is intended to provide facilities for the irreversible anonymisation of PII/PHI data in non-PRD SAP systems, including (but not limited) to patient name, contact names, personal email addresses and personal bank account details. Scrambling is based on user created template.
