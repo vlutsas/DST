@@ -1,7 +1,7 @@
 
 # DATA SCRAMBLING TOOL
 
-<img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST2.png"  width="500" />
+<img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST2.png"  height="500" /> <img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST1.png"  height="500" />
 
 * [Description](#Description)
 * [Prerequisites](#Prerequisites)
@@ -48,4 +48,4 @@ Information technology — Security techniques — Code of practice for informat
 <br>
 <br>
 
-<img src="https://github.com/Vlutsas/SAP_DST/blob/main/DST1.png"  width="400" align="right" />
+
