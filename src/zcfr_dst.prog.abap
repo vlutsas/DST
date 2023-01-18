@@ -8,7 +8,7 @@
 *&---------------------------------------------------------------------*
 *&                     A D M I N I S T R A T I O N                     *
 *&---------------------------------------------------------------------*
-* Created by   : Vladimir Lutsas
+* Created by   : Vladimir Lutsas ( vlutsas#gmail.com )
 * Created on   : 21.07.2020 13:45:19
 * Program Type : Utility
 * Description  : DST
