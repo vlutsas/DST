@@ -1512,7 +1512,10 @@ CLASS lcl_dst_app IMPLEMENTATION.
         r_secs                     = DATA(lv_duration_secs)    " Time Interval in Seconds
     ).
 
-    DATA(lv_duration_sec_int4) = CONV int4( lv_duration_secs ).
+    " This variable works better if declared explicitly. 
+    DATA lv_duration_sec_int4 TYPE cx_point_in_time.
+
+    lv_duration_sec_int4 = CONV int4( lv_duration_secs ).
 
     CALL FUNCTION 'POINT_IN_TIME_CONVERT'
       EXPORTING
