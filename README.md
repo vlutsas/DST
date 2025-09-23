@@ -40,7 +40,7 @@ The PHI/PII Data Scrambling Tool is intended to provide facilities for the irrev
 
 
 ### Links
-
+* [SCN post (my name lost with Universal ID change)]( https://community.sap.com/t5/application-development-and-automation-blog-posts/data-scrambling-tool-dst/ba-p/13572818 )
 * [ISO/IEC 27002:2013
 Information technology — Security techniques — Code of practice for information security controls](https://www.iso.org/standard/54533.html)
 * [Complete guide to GDPR compliance](https://gdpr.eu/)
